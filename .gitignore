@@ -1,5 +1,8 @@
-CALambdaNetDemo/src/CALambdaNetDemo/bin/*
-CALambdaNetDemo/src/CALambdaNetDemo/obj/*
+**/**/cache
+**/.terraform
 
-CALambdaNetDemo/test/CALambdaNetDemo.Tests/bin/*
-CALambdaNetDemo/test/CALambdaNetDemo.Tests/obj/*
+CALambdaNetDemo/src/CALambdaNetDemo/bin
+CALambdaNetDemo/src/CALambdaNetDemo/obj
+
+CALambdaNetDemo/test/CALambdaNetDemo.Tests/bin
+CALambdaNetDemo/test/CALambdaNetDemo.Tests/obj
