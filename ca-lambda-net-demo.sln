@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CALambdaNetDemo", "CALambdaNetDemo", "{532A3F04-A220-4D91-A9C3-EC89FA0F734A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FBC5BAA8-522E-4695-B686-2ABE81360D5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CALambdaNetDemo", "CALambdaNetDemo\src\CALambdaNetDemo\CALambdaNetDemo.csproj", "{5C0C1D9F-1087-4455-8C3C-7F2C159A2D0D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{710075AC-A344-4AD3-B14F-CF7F4B2545CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CALambdaNetDemo.Tests", "CALambdaNetDemo\test\CALambdaNetDemo.Tests\CALambdaNetDemo.Tests.csproj", "{986098C0-E192-4702-AB1F-971223B62F90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C0C1D9F-1087-4455-8C3C-7F2C159A2D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0C1D9F-1087-4455-8C3C-7F2C159A2D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0C1D9F-1087-4455-8C3C-7F2C159A2D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0C1D9F-1087-4455-8C3C-7F2C159A2D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986098C0-E192-4702-AB1F-971223B62F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986098C0-E192-4702-AB1F-971223B62F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986098C0-E192-4702-AB1F-971223B62F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986098C0-E192-4702-AB1F-971223B62F90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FBC5BAA8-522E-4695-B686-2ABE81360D5E} = {532A3F04-A220-4D91-A9C3-EC89FA0F734A}
+		{5C0C1D9F-1087-4455-8C3C-7F2C159A2D0D} = {FBC5BAA8-522E-4695-B686-2ABE81360D5E}
+		{710075AC-A344-4AD3-B14F-CF7F4B2545CF} = {532A3F04-A220-4D91-A9C3-EC89FA0F734A}
+		{986098C0-E192-4702-AB1F-971223B62F90} = {710075AC-A344-4AD3-B14F-CF7F4B2545CF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66ABE8AF-14DD-4EB1-B44F-D59C6EA6FF80}
+	EndGlobalSection
+EndGlobal

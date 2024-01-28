@@ -1,0 +1,16 @@
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\CALambdaNetDemo
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\appsettings.Development.json
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\appsettings.json
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\aws-lambda-tools-defaults.json
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\CALambdaNetDemo.deps.json
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\CALambdaNetDemo.runtimeconfig.json
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\CALambdaNetDemo.pdb
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\Amazon.Lambda.AspNetCoreServer.dll
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\Amazon.Lambda.Logging.AspNetCore.dll
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\AWSSDK.Extensions.NETCore.Setup.dll
+C:\dev\aws\ca-lambda-net-demo\CALambdaNetDemo\src\CALambdaNetDemo\bin\Release\net6.0\publish\CALambdaNetDemo.dll
